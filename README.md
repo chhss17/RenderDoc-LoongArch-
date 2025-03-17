@@ -19,9 +19,11 @@
 
 * 李轶 Email liyi@loongson.cn
 
-## 难度：低-中
+## 难度
+低-中
 
-# License：GPL V3.0.
+# License
+GPL V3.0.
 
 ## 预期目标
 
